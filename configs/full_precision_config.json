@@ -1,0 +1,8 @@
+{
+    "subcaches" : [
+        {
+            "precision" : "float64",
+            "proportion" : 1
+        }
+    ]
+}
